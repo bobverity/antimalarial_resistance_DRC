@@ -2,7 +2,7 @@
 # generate_figure1.R
 #
 # Author: Bob Verity
-# Date: 2019-02-18
+# Date: 2019-12-17
 #
 # Purpose:
 # Produce 2D and 3D PCA plots. 3D version uses bespoke code for plotting 3D scatter using ggplot2.
@@ -20,6 +20,8 @@ library(bobfunctions2)
 library(RColorBrewer)
 library(ggplot2)
 library(gridExtra)
+
+# ------------------------------------------------------------------
 
 # read in raw data
 dat <- readRDS("source_data/biallelic_distances.rds")
