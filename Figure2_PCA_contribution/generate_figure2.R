@@ -20,7 +20,7 @@ library(RColorBrewer)
 # ------------------------------------------------------------------
 
 # read in raw data
-dat <- readRDS("data/biallelic_processed.rds")
+dat <- readRDS("source_data/biallelic_distances.rds")
 
 # PCA on WSAFs
 wsaf_impute <- get_wsaf(dat, impute = TRUE, FUN = mean)
@@ -65,7 +65,7 @@ df_ann <- data.frame(comp = comp_name_vec[c(2,4)],
 plot1 <- plot1 + geom_text(aes(x = x, y = y, label = lab), size = 3, fontface = 2, data = df_ann)
 
 # save to file
-ggsave("Figure2_PCA_contribution/Figure2_PCA_contribution.pdf", plot = plot1, device = "pdf",
+ggsave("figure2_PCA_contribution/figure2_PCA_contribution.pdf", plot = plot1, device = "pdf",
        width = 12, height = 6)
-ggsave("Figure2_PCA_contribution/Figure2_PCA_contribution.ong", plot = plot1, device = "png",
+ggsave("figure2_PCA_contribution/figure2_PCA_contribution.png", plot = plot1, device = "png",
        width = 12, height = 6, dpi = 100)

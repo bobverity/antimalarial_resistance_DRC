@@ -62,5 +62,5 @@ plot2 <- gg3d_scatterplot(plot_df$x, plot_df$y, plot_df$z, colour = plot_df$coun
 plot3 <- gridExtra::grid.arrange(plot1, plot2, ncol = 2, widths = c(2.5,3))
 
 # save to file
-ggsave("Figure1_PCA/Figure1_PCA.pdf", plot = plot3, device = "pdf", width = 10, height = 4.5)
-ggsave("Figure1_PCA/Figure1_PCA.png", plot = plot3, device = "png", width = 10, height = 4.5, dpi = 100)
+ggsave("figure1_PCA/figure1_PCA.pdf", plot = plot3, device = "pdf", width = 10, height = 4.5)
+ggsave("figure1_PCA/figure1_PCA.png", plot = plot3, device = "png", width = 10, height = 4.5, dpi = 100)
