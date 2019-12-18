@@ -1,1 +1,0 @@
-Note - inside the directory mip_mccoil-master/analysis/data there are two zipped files called "raw.zip" and "derived.zip". These will have to be un-zipped for the scripts inside this folder to work correctly.
