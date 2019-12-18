@@ -20,6 +20,7 @@ library(dplyr)
 library(PrevMap)
 library(splancs)
 library(raster)
+library(magrittr)
 
 # ------------------------------------------------------------------
 
