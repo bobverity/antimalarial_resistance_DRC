@@ -8,3 +8,4 @@ Additional software packages and tools that are useful when working with MIP dat
 * [MIPAnalyzer](https://github.com/Mrc-ide/mipanalyzer)
 * [vcfdo](https://github.com/IDEELResearch/vcfdo/)
 * [vcfR2manip](https://github.com/IDEELResearch/vcfRmanip/)
+* [McCOILR](https://github.com/OJWatson/McCOILR)
