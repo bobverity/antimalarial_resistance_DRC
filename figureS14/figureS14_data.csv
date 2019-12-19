@@ -1,0 +1,1835 @@
+,#CHROM,POS,REF,ALT,Neutral,Geo,MG_CHROM,chrom_size,Type,Color
+0,chr1,139191,C,T,False,True,Pf3D7_01_v3,640851,Geographically Informative,r
+1,chr1,140820,A,C,False,True,Pf3D7_01_v3,640851,Geographically Informative,r
+2,chr1,455877,A,C,False,True,Pf3D7_01_v3,640851,Geographically Informative,r
+3,chr1,472576,A,T,False,True,Pf3D7_01_v3,640851,Geographically Informative,r
+4,chr1,472583,A,G,False,True,Pf3D7_01_v3,640851,Geographically Informative,r
+5,chr1,480434,G,A,False,True,Pf3D7_01_v3,640851,Geographically Informative,r
+6,chr1,489274,A,C,False,True,Pf3D7_01_v3,640851,Geographically Informative,r
+7,chr1,100608,A,G,True,False,Pf3D7_01_v3,640851,Neutral,b
+8,chr1,138823,C,T,True,False,Pf3D7_01_v3,640851,Neutral,b
+9,chr1,155939,G,A,True,False,Pf3D7_01_v3,640851,Neutral,b
+10,chr1,155978,C,T,True,False,Pf3D7_01_v3,640851,Neutral,b
+11,chr1,159562,A,G,True,False,Pf3D7_01_v3,640851,Neutral,b
+12,chr1,167899,C,T,True,False,Pf3D7_01_v3,640851,Neutral,b
+13,chr1,182927,T,C,True,False,Pf3D7_01_v3,640851,Neutral,b
+14,chr1,205066,G,A,True,False,Pf3D7_01_v3,640851,Neutral,b
+15,chr1,239376,G,T,True,False,Pf3D7_01_v3,640851,Neutral,b
+16,chr1,244080,T,C,True,False,Pf3D7_01_v3,640851,Neutral,b
+17,chr1,308232,C,T,True,False,Pf3D7_01_v3,640851,Neutral,b
+18,chr1,308385,G,C,True,False,Pf3D7_01_v3,640851,Neutral,b
+19,chr1,309042,C,T,True,False,Pf3D7_01_v3,640851,Neutral,b
+20,chr1,349253,A,G,True,False,Pf3D7_01_v3,640851,Neutral,b
+21,chr1,397985,G,A,True,False,Pf3D7_01_v3,640851,Neutral,b
+22,chr1,487057,C,T,True,False,Pf3D7_01_v3,640851,Neutral,b
+23,chr1,497883,A,G,True,False,Pf3D7_01_v3,640851,Neutral,b
+24,chr1,498090,A,C,True,False,Pf3D7_01_v3,640851,Neutral,b
+25,chr1,506069,A,G,True,False,Pf3D7_01_v3,640851,Neutral,b
+26,chr1,532656,G,A,True,False,Pf3D7_01_v3,640851,Neutral,b
+27,chr1,534237,C,T,True,False,Pf3D7_01_v3,640851,Neutral,b
+28,chr1,536003,T,C,True,False,Pf3D7_01_v3,640851,Neutral,b
+29,chr1,536312,A,G,True,False,Pf3D7_01_v3,640851,Neutral,b
+30,chr1,536315,T,C,True,False,Pf3D7_01_v3,640851,Neutral,b
+31,chr1,537427,A,G,True,False,Pf3D7_01_v3,640851,Neutral,b
+32,chr10,108733,C,T,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+33,chr10,113505,C,A,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+34,chr10,113582,A,T,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+35,chr10,115507,G,T,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+36,chr10,116392,G,A,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+37,chr10,122738,G,A,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+38,chr10,325616,A,G,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+39,chr10,377200,A,T,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+40,chr10,414789,T,G,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+41,chr10,454626,C,A,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+42,chr10,557657,T,A,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+43,chr10,561234,A,G,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+44,chr10,565140,T,A,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+45,chr10,565388,C,A,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+46,chr10,653138,C,T,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+47,chr10,658448,T,G,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+48,chr10,662320,T,C,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+49,chr10,663199,G,T,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+50,chr10,669306,C,T,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+51,chr10,669908,C,T,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+52,chr10,670187,A,T,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+53,chr10,735409,G,C,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+54,chr10,797801,G,A,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+55,chr10,883159,C,G,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+56,chr10,1065121,G,A,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+57,chr10,1335457,T,G,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+58,chr10,1339970,A,G,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+59,chr10,1432884,T,C,False,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+60,chr10,92927,T,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+61,chr10,93086,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+62,chr10,112973,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+63,chr10,129644,G,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+64,chr10,146075,C,T,True,False,Pf3D7_10_v3,1687656,Neutral,b
+65,chr10,169428,T,C,True,False,Pf3D7_10_v3,1687656,Neutral,b
+66,chr10,189952,T,C,True,False,Pf3D7_10_v3,1687656,Neutral,b
+67,chr10,190030,C,T,True,False,Pf3D7_10_v3,1687656,Neutral,b
+68,chr10,222495,G,T,True,False,Pf3D7_10_v3,1687656,Neutral,b
+69,chr10,223211,G,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+70,chr10,225629,G,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+71,chr10,238016,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+72,chr10,240614,C,T,True,False,Pf3D7_10_v3,1687656,Neutral,b
+73,chr10,317581,A,T,True,False,Pf3D7_10_v3,1687656,Neutral,b
+74,chr10,334542,T,C,True,False,Pf3D7_10_v3,1687656,Neutral,b
+75,chr10,341106,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+76,chr10,361684,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+77,chr10,375664,T,C,True,False,Pf3D7_10_v3,1687656,Neutral,b
+78,chr10,377197,T,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+79,chr10,382041,C,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+80,chr10,424305,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+81,chr10,425295,C,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+82,chr10,456828,C,T,True,False,Pf3D7_10_v3,1687656,Neutral,b
+83,chr10,464500,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+84,chr10,558456,C,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+85,chr10,574773,T,C,True,False,Pf3D7_10_v3,1687656,Neutral,b
+86,chr10,595511,G,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+87,chr10,638138,T,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+88,chr10,638636,T,C,True,False,Pf3D7_10_v3,1687656,Neutral,b
+89,chr10,638837,C,T,True,False,Pf3D7_10_v3,1687656,Neutral,b
+90,chr10,699403,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+91,chr10,714026,G,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+92,chr10,716468,C,T,True,False,Pf3D7_10_v3,1687656,Neutral,b
+93,chr10,754119,G,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+94,chr10,759927,C,T,True,False,Pf3D7_10_v3,1687656,Neutral,b
+95,chr10,797802,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+96,chr10,821899,G,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+97,chr10,964859,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+98,chr10,992490,G,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+99,chr10,1035800,T,C,True,False,Pf3D7_10_v3,1687656,Neutral,b
+100,chr10,1041222,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+101,chr10,1063886,G,C,True,False,Pf3D7_10_v3,1687656,Neutral,b
+102,chr10,1074462,G,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+103,chr10,1083764,T,C,True,False,Pf3D7_10_v3,1687656,Neutral,b
+104,chr10,1128179,T,C,True,False,Pf3D7_10_v3,1687656,Neutral,b
+105,chr10,1172279,T,C,True,False,Pf3D7_10_v3,1687656,Neutral,b
+106,chr10,1172282,G,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+107,chr10,1235482,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+108,chr10,1268080,C,T,True,False,Pf3D7_10_v3,1687656,Neutral,b
+109,chr10,1320083,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+110,chr10,1320086,G,T,True,False,Pf3D7_10_v3,1687656,Neutral,b
+111,chr10,1341720,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+112,chr10,1384706,T,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+113,chr10,1385894,C,T,True,False,Pf3D7_10_v3,1687656,Neutral,b
+114,chr10,1387021,C,T,True,False,Pf3D7_10_v3,1687656,Neutral,b
+115,chr10,1391657,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+116,chr10,1391660,G,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+117,chr10,1392773,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+118,chr10,1399269,C,T,True,False,Pf3D7_10_v3,1687656,Neutral,b
+119,chr10,1414588,C,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+120,chr10,1434066,A,C,True,False,Pf3D7_10_v3,1687656,Neutral,b
+121,chr10,1434072,G,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+122,chr10,1434084,C,T,True,False,Pf3D7_10_v3,1687656,Neutral,b
+123,chr10,1434096,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+124,chr10,1463519,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+125,chr10,1498888,A,T,True,False,Pf3D7_10_v3,1687656,Neutral,b
+126,chr10,1513542,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+127,chr10,1519673,G,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+128,chr10,1551542,T,A,True,False,Pf3D7_10_v3,1687656,Neutral,b
+129,chr10,1554604,A,G,True,False,Pf3D7_10_v3,1687656,Neutral,b
+130,chr10,113618,A,G,True,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+131,chr10,113768,C,T,True,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+132,chr10,115205,G,A,True,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+133,chr10,661961,A,T,True,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+134,chr10,808864,T,G,True,True,Pf3D7_10_v3,1687656,Geographically Informative,r
+135,chr11,241962,A,T,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+136,chr11,324903,A,G,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+137,chr11,354078,G,A,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+138,chr11,552427,G,A,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+139,chr11,584694,G,T,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+140,chr11,604547,T,C,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+141,chr11,637436,T,A,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+142,chr11,659208,A,G,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+143,chr11,987161,G,C,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+144,chr11,987190,C,A,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+145,chr11,987253,A,T,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+146,chr11,1005477,C,T,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+147,chr11,1006055,G,T,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+148,chr11,1006753,T,C,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+149,chr11,1006784,T,C,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+150,chr11,1006911,A,T,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+151,chr11,1009859,A,G,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+152,chr11,1057437,T,C,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+153,chr11,1058035,T,A,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+154,chr11,1120257,T,C,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+155,chr11,1196007,T,C,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+156,chr11,1275605,C,T,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+157,chr11,1275658,T,A,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+158,chr11,1375053,C,T,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+159,chr11,1375988,T,C,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+160,chr11,1383842,A,C,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+161,chr11,1563321,G,C,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+162,chr11,1749819,A,G,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+163,chr11,1945955,G,A,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+164,chr11,1978660,C,T,False,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+165,chr11,247498,G,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+166,chr11,256962,A,T,True,False,Pf3D7_11_v3,2038340,Neutral,b
+167,chr11,265114,C,T,True,False,Pf3D7_11_v3,2038340,Neutral,b
+168,chr11,306911,T,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+169,chr11,318674,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+170,chr11,324013,T,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+171,chr11,325228,T,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+172,chr11,391633,T,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+173,chr11,408413,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+174,chr11,408965,G,T,True,False,Pf3D7_11_v3,2038340,Neutral,b
+175,chr11,418011,C,T,True,False,Pf3D7_11_v3,2038340,Neutral,b
+176,chr11,433376,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+177,chr11,458037,C,T,True,False,Pf3D7_11_v3,2038340,Neutral,b
+178,chr11,494717,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+179,chr11,526330,C,T,True,False,Pf3D7_11_v3,2038340,Neutral,b
+180,chr11,529804,C,T,True,False,Pf3D7_11_v3,2038340,Neutral,b
+181,chr11,571361,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+182,chr11,592511,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+183,chr11,592535,T,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+184,chr11,592568,C,T,True,False,Pf3D7_11_v3,2038340,Neutral,b
+185,chr11,644562,G,A,True,False,Pf3D7_11_v3,2038340,Neutral,b
+186,chr11,659205,T,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+187,chr11,683965,T,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+188,chr11,690218,C,A,True,False,Pf3D7_11_v3,2038340,Neutral,b
+189,chr11,694933,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+190,chr11,703912,C,T,True,False,Pf3D7_11_v3,2038340,Neutral,b
+191,chr11,706213,A,T,True,False,Pf3D7_11_v3,2038340,Neutral,b
+192,chr11,719742,T,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+193,chr11,740730,T,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+194,chr11,767389,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+195,chr11,812065,T,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+196,chr11,865260,G,A,True,False,Pf3D7_11_v3,2038340,Neutral,b
+197,chr11,888290,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+198,chr11,897536,T,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+199,chr11,902534,T,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+200,chr11,987202,T,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+201,chr11,1018965,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+202,chr11,1019739,G,A,True,False,Pf3D7_11_v3,2038340,Neutral,b
+203,chr11,1020630,G,A,True,False,Pf3D7_11_v3,2038340,Neutral,b
+204,chr11,1084422,G,A,True,False,Pf3D7_11_v3,2038340,Neutral,b
+205,chr11,1100269,G,A,True,False,Pf3D7_11_v3,2038340,Neutral,b
+206,chr11,1106452,T,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+207,chr11,1108310,G,A,True,False,Pf3D7_11_v3,2038340,Neutral,b
+208,chr11,1114208,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+209,chr11,1141641,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+210,chr11,1157111,A,T,True,False,Pf3D7_11_v3,2038340,Neutral,b
+211,chr11,1181093,G,A,True,False,Pf3D7_11_v3,2038340,Neutral,b
+212,chr11,1188635,G,A,True,False,Pf3D7_11_v3,2038340,Neutral,b
+213,chr11,1263156,T,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+214,chr11,1287484,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+215,chr11,1360267,C,T,True,False,Pf3D7_11_v3,2038340,Neutral,b
+216,chr11,1467529,T,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+217,chr11,1508304,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+218,chr11,1637389,G,A,True,False,Pf3D7_11_v3,2038340,Neutral,b
+219,chr11,1640669,A,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+220,chr11,1659750,C,T,True,False,Pf3D7_11_v3,2038340,Neutral,b
+221,chr11,1679200,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+222,chr11,1696137,G,A,True,False,Pf3D7_11_v3,2038340,Neutral,b
+223,chr11,1752894,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+224,chr11,1815131,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+225,chr11,1831402,G,A,True,False,Pf3D7_11_v3,2038340,Neutral,b
+226,chr11,1887740,T,A,True,False,Pf3D7_11_v3,2038340,Neutral,b
+227,chr11,1900435,G,T,True,False,Pf3D7_11_v3,2038340,Neutral,b
+228,chr11,1912576,G,A,True,False,Pf3D7_11_v3,2038340,Neutral,b
+229,chr11,1942297,G,A,True,False,Pf3D7_11_v3,2038340,Neutral,b
+230,chr11,1953768,T,C,True,False,Pf3D7_11_v3,2038340,Neutral,b
+231,chr11,1953780,T,A,True,False,Pf3D7_11_v3,2038340,Neutral,b
+232,chr11,1953789,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+233,chr11,2001759,A,G,True,False,Pf3D7_11_v3,2038340,Neutral,b
+234,chr11,241970,A,G,True,True,Pf3D7_11_v3,2038340,Geographically Informative,r
+235,chr12,63028,C,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+236,chr12,63177,C,G,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+237,chr12,63243,C,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+238,chr12,63268,C,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+239,chr12,63322,G,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+240,chr12,91711,A,G,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+241,chr12,379979,T,C,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+242,chr12,532133,C,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+243,chr12,670814,G,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+244,chr12,684117,T,G,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+245,chr12,718550,A,C,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+246,chr12,722167,C,G,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+247,chr12,727996,T,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+248,chr12,739074,C,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+249,chr12,740589,T,C,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+250,chr12,741158,T,C,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+251,chr12,836041,G,C,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+252,chr12,847568,T,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+253,chr12,852225,A,C,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+254,chr12,865159,T,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+255,chr12,866322,A,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+256,chr12,892211,A,G,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+257,chr12,892338,C,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+258,chr12,892798,G,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+259,chr12,907264,A,G,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+260,chr12,909160,A,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+261,chr12,913124,A,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+262,chr12,920666,C,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+263,chr12,928407,T,C,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+264,chr12,931372,C,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+265,chr12,935411,T,G,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+266,chr12,938341,G,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+267,chr12,941821,A,G,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+268,chr12,944249,A,G,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+269,chr12,946348,A,G,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+270,chr12,946416,T,C,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+271,chr12,953362,C,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+272,chr12,959248,G,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+273,chr12,960073,T,C,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+274,chr12,979388,G,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+275,chr12,980434,A,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+276,chr12,989679,T,C,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+277,chr12,1002681,T,C,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+278,chr12,1005696,G,C,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+279,chr12,1008584,A,G,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+280,chr12,1014046,T,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+281,chr12,1014802,A,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+282,chr12,1015328,C,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+283,chr12,1042965,T,G,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+284,chr12,1043449,C,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+285,chr12,1048769,G,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+286,chr12,1051589,G,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+287,chr12,1059078,G,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+288,chr12,1087957,C,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+289,chr12,1089105,G,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+290,chr12,1089166,C,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+291,chr12,1116285,T,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+292,chr12,1116289,A,G,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+293,chr12,1193349,C,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+294,chr12,1197074,T,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+295,chr12,1392124,T,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+296,chr12,1449503,C,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+297,chr12,1559859,T,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+298,chr12,1615391,C,G,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+299,chr12,1623758,T,C,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+300,chr12,1792353,A,C,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+301,chr12,1798551,T,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+302,chr12,1811233,G,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+303,chr12,1996827,T,A,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+304,chr12,1997660,G,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+305,chr12,2035576,C,T,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+306,chr12,2151902,T,C,False,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+307,chr12,82667,A,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+308,chr12,83177,T,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+309,chr12,83558,T,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+310,chr12,96155,T,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+311,chr12,114173,C,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+312,chr12,123645,T,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+313,chr12,174880,T,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+314,chr12,316929,T,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+315,chr12,331294,T,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+316,chr12,350796,G,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+317,chr12,367530,A,G,True,False,Pf3D7_12_v3,2271494,Neutral,b
+318,chr12,394228,A,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+319,chr12,418961,C,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+320,chr12,532131,G,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+321,chr12,606896,C,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+322,chr12,640429,A,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+323,chr12,642250,T,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+324,chr12,657927,G,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+325,chr12,696302,C,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+326,chr12,698136,G,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+327,chr12,713905,A,G,True,False,Pf3D7_12_v3,2271494,Neutral,b
+328,chr12,726602,A,G,True,False,Pf3D7_12_v3,2271494,Neutral,b
+329,chr12,733153,G,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+330,chr12,751029,A,G,True,False,Pf3D7_12_v3,2271494,Neutral,b
+331,chr12,753957,T,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+332,chr12,760468,T,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+333,chr12,760531,G,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+334,chr12,762388,A,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+335,chr12,762514,C,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+336,chr12,762526,C,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+337,chr12,763141,A,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+338,chr12,786224,C,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+339,chr12,802744,G,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+340,chr12,807679,C,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+341,chr12,812812,C,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+342,chr12,813217,C,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+343,chr12,817280,A,G,True,False,Pf3D7_12_v3,2271494,Neutral,b
+344,chr12,817730,G,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+345,chr12,818766,G,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+346,chr12,839903,G,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+347,chr12,1068851,G,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+348,chr12,1075986,C,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+349,chr12,1078321,G,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+350,chr12,1092523,A,G,True,False,Pf3D7_12_v3,2271494,Neutral,b
+351,chr12,1116294,C,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+352,chr12,1126440,C,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+353,chr12,1148572,A,G,True,False,Pf3D7_12_v3,2271494,Neutral,b
+354,chr12,1156135,T,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+355,chr12,1173724,C,G,True,False,Pf3D7_12_v3,2271494,Neutral,b
+356,chr12,1195282,A,G,True,False,Pf3D7_12_v3,2271494,Neutral,b
+357,chr12,1212825,T,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+358,chr12,1320059,C,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+359,chr12,1322498,A,G,True,False,Pf3D7_12_v3,2271494,Neutral,b
+360,chr12,1387200,C,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+361,chr12,1435153,T,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+362,chr12,1503030,T,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+363,chr12,1515725,G,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+364,chr12,1546481,C,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+365,chr12,1548884,G,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+366,chr12,1663324,A,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+367,chr12,1663492,A,G,True,False,Pf3D7_12_v3,2271494,Neutral,b
+368,chr12,1665622,G,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+369,chr12,1673470,G,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+370,chr12,1678939,A,G,True,False,Pf3D7_12_v3,2271494,Neutral,b
+371,chr12,1681129,G,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+372,chr12,1681360,A,G,True,False,Pf3D7_12_v3,2271494,Neutral,b
+373,chr12,1802019,T,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+374,chr12,1868677,G,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+375,chr12,1887454,C,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+376,chr12,1927229,T,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+377,chr12,1963992,T,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+378,chr12,1964949,G,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+379,chr12,2006015,A,G,True,False,Pf3D7_12_v3,2271494,Neutral,b
+380,chr12,2023575,T,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+381,chr12,2046741,A,G,True,False,Pf3D7_12_v3,2271494,Neutral,b
+382,chr12,2047161,T,G,True,False,Pf3D7_12_v3,2271494,Neutral,b
+383,chr12,2050146,C,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+384,chr12,2062740,A,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+385,chr12,2079644,G,A,True,False,Pf3D7_12_v3,2271494,Neutral,b
+386,chr12,2098567,C,T,True,False,Pf3D7_12_v3,2271494,Neutral,b
+387,chr12,2116182,G,C,True,False,Pf3D7_12_v3,2271494,Neutral,b
+388,chr12,532113,A,T,True,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+389,chr12,684111,T,A,True,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+390,chr12,841250,G,A,True,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+391,chr12,943339,C,T,True,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+392,chr12,944301,G,C,True,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+393,chr12,949384,G,A,True,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+394,chr12,953017,T,C,True,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+395,chr12,1020211,C,T,True,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+396,chr12,2034711,T,C,True,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+397,chr12,2051511,A,G,True,True,Pf3D7_12_v3,2271494,Geographically Informative,r
+398,chr13,169780,G,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+399,chr13,192183,C,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+400,chr13,480781,C,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+401,chr13,531261,G,C,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+402,chr13,852849,C,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+403,chr13,861503,G,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+404,chr13,944480,G,C,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+405,chr13,1004961,T,C,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+406,chr13,1013674,G,T,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+407,chr13,1150583,G,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+408,chr13,1175513,G,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+409,chr13,1257063,A,G,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+410,chr13,1311128,C,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+411,chr13,1362388,G,C,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+412,chr13,1406752,G,T,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+413,chr13,1429067,T,G,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+414,chr13,1482708,C,T,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+415,chr13,1659533,A,G,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+416,chr13,1734408,T,C,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+417,chr13,1745728,A,G,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+418,chr13,1793653,C,T,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+419,chr13,1866470,G,T,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+420,chr13,1868682,G,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+421,chr13,1876423,A,T,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+422,chr13,1876601,G,C,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+423,chr13,1876606,T,C,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+424,chr13,1879380,T,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+425,chr13,1879381,T,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+426,chr13,1879631,T,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+427,chr13,1880114,T,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+428,chr13,1882346,G,T,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+429,chr13,1910058,C,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+430,chr13,2021487,T,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+431,chr13,2022295,A,T,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+432,chr13,2043114,T,G,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+433,chr13,2124676,T,C,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+434,chr13,2124825,T,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+435,chr13,2341466,T,G,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+436,chr13,2341610,A,G,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+437,chr13,2352397,A,T,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+438,chr13,2415386,C,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+439,chr13,2417474,A,G,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+440,chr13,2417849,C,T,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+441,chr13,2479113,C,G,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+442,chr13,2479509,G,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+443,chr13,2481108,C,G,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+444,chr13,2481275,C,G,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+445,chr13,2512452,C,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+446,chr13,2600907,A,T,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+447,chr13,2669191,T,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+448,chr13,2669640,T,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+449,chr13,2675894,C,A,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+450,chr13,2761811,A,C,False,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+451,chr13,155246,G,A,True,False,Pf3D7_13_v3,2925236,Neutral,b
+452,chr13,156689,C,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+453,chr13,194874,C,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+454,chr13,236385,C,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+455,chr13,256854,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+456,chr13,290146,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+457,chr13,301446,C,A,True,False,Pf3D7_13_v3,2925236,Neutral,b
+458,chr13,309120,T,A,True,False,Pf3D7_13_v3,2925236,Neutral,b
+459,chr13,341070,C,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+460,chr13,365240,T,A,True,False,Pf3D7_13_v3,2925236,Neutral,b
+461,chr13,398354,A,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+462,chr13,410962,A,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+463,chr13,483005,G,A,True,False,Pf3D7_13_v3,2925236,Neutral,b
+464,chr13,503298,A,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+465,chr13,530497,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+466,chr13,536714,G,A,True,False,Pf3D7_13_v3,2925236,Neutral,b
+467,chr13,595379,A,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+468,chr13,613236,T,A,True,False,Pf3D7_13_v3,2925236,Neutral,b
+469,chr13,640404,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+470,chr13,714722,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+471,chr13,722833,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+472,chr13,738765,A,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+473,chr13,756912,A,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+474,chr13,758787,A,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+475,chr13,769044,A,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+476,chr13,815912,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+477,chr13,815915,C,A,True,False,Pf3D7_13_v3,2925236,Neutral,b
+478,chr13,815954,G,A,True,False,Pf3D7_13_v3,2925236,Neutral,b
+479,chr13,817001,T,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+480,chr13,931547,A,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+481,chr13,934925,A,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+482,chr13,935882,A,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+483,chr13,1079779,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+484,chr13,1225494,C,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+485,chr13,1230403,A,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+486,chr13,1244791,C,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+487,chr13,1265571,C,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+488,chr13,1350981,C,A,True,False,Pf3D7_13_v3,2925236,Neutral,b
+489,chr13,1419503,C,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+490,chr13,1478081,A,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+491,chr13,1599633,A,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+492,chr13,1628232,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+493,chr13,1660920,A,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+494,chr13,1682933,A,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+495,chr13,1716321,G,A,True,False,Pf3D7_13_v3,2925236,Neutral,b
+496,chr13,1774926,C,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+497,chr13,1861105,T,A,True,False,Pf3D7_13_v3,2925236,Neutral,b
+498,chr13,1970443,A,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+499,chr13,1986165,A,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+500,chr13,2044533,G,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+501,chr13,2067739,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+502,chr13,2078454,G,A,True,False,Pf3D7_13_v3,2925236,Neutral,b
+503,chr13,2083881,T,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+504,chr13,2103416,C,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+505,chr13,2110966,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+506,chr13,2266108,C,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+507,chr13,2266147,G,A,True,False,Pf3D7_13_v3,2925236,Neutral,b
+508,chr13,2266150,C,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+509,chr13,2266153,T,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+510,chr13,2270205,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+511,chr13,2271599,A,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+512,chr13,2302172,A,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+513,chr13,2302511,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+514,chr13,2309427,A,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+515,chr13,2323925,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+516,chr13,2400533,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+517,chr13,2415839,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+518,chr13,2475404,A,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+519,chr13,2478581,C,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+520,chr13,2506752,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+521,chr13,2529293,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+522,chr13,2545561,T,C,True,False,Pf3D7_13_v3,2925236,Neutral,b
+523,chr13,2606427,A,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+524,chr13,2640170,T,A,True,False,Pf3D7_13_v3,2925236,Neutral,b
+525,chr13,2651476,T,G,True,False,Pf3D7_13_v3,2925236,Neutral,b
+526,chr13,2651632,C,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+527,chr13,2655493,G,A,True,False,Pf3D7_13_v3,2925236,Neutral,b
+528,chr13,2698420,G,A,True,False,Pf3D7_13_v3,2925236,Neutral,b
+529,chr13,2733606,G,T,True,False,Pf3D7_13_v3,2925236,Neutral,b
+530,chr13,1595988,T,C,True,True,Pf3D7_13_v3,2925236,Geographically Informative,r
+531,chr14,47596,C,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+532,chr14,120299,T,C,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+533,chr14,150273,A,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+534,chr14,150276,G,A,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+535,chr14,161286,G,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+536,chr14,203062,T,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+537,chr14,299794,G,A,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+538,chr14,421429,G,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+539,chr14,421549,G,A,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+540,chr14,421552,A,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+541,chr14,421848,A,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+542,chr14,422158,A,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+543,chr14,512987,G,A,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+544,chr14,513814,A,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+545,chr14,564266,G,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+546,chr14,832594,T,C,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+547,chr14,969251,A,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+548,chr14,1036865,A,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+549,chr14,1269832,G,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+550,chr14,1294114,G,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+551,chr14,1300698,G,A,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+552,chr14,1305484,T,C,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+553,chr14,1323647,C,A,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+554,chr14,1325549,C,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+555,chr14,1326562,T,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+556,chr14,1362090,A,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+557,chr14,1398727,T,C,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+558,chr14,1402049,T,C,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+559,chr14,1473534,A,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+560,chr14,1475248,T,A,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+561,chr14,1481872,A,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+562,chr14,1482057,C,A,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+563,chr14,1582136,G,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+564,chr14,1623775,A,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+565,chr14,1629711,A,C,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+566,chr14,1657395,C,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+567,chr14,1660970,T,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+568,chr14,1663902,A,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+569,chr14,1665655,G,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+570,chr14,1665794,T,C,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+571,chr14,1671322,C,A,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+572,chr14,1672361,A,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+573,chr14,1672649,G,A,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+574,chr14,1694073,C,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+575,chr14,1728301,T,A,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+576,chr14,1728847,A,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+577,chr14,1744760,A,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+578,chr14,1792962,G,A,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+579,chr14,1816447,A,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+580,chr14,1822892,T,C,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+581,chr14,1872907,A,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+582,chr14,1956202,T,C,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+583,chr14,1956408,A,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+584,chr14,1984194,C,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+585,chr14,2035675,C,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+586,chr14,2521956,T,A,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+587,chr14,2602038,T,C,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+588,chr14,2625887,C,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+589,chr14,2658199,A,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+590,chr14,2762933,T,A,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+591,chr14,2846037,A,G,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+592,chr14,2959716,G,T,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+593,chr14,3088522,T,A,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+594,chr14,3126005,T,A,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+595,chr14,3140314,G,C,False,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+596,chr14,107014,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+597,chr14,112128,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+598,chr14,113975,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+599,chr14,113980,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+600,chr14,137622,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+601,chr14,137691,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+602,chr14,164833,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+603,chr14,165436,A,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+604,chr14,201791,C,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+605,chr14,202130,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+606,chr14,202238,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+607,chr14,259286,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+608,chr14,261295,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+609,chr14,324097,A,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+610,chr14,337415,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+611,chr14,384345,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+612,chr14,390353,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+613,chr14,393389,A,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+614,chr14,397871,A,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+615,chr14,406995,T,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+616,chr14,407424,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+617,chr14,422319,C,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+618,chr14,429723,T,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+619,chr14,465265,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+620,chr14,485973,A,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+621,chr14,489229,A,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+622,chr14,494376,T,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+623,chr14,500484,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+624,chr14,510022,T,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+625,chr14,564690,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+626,chr14,689116,A,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+627,chr14,809810,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+628,chr14,872802,A,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+629,chr14,901969,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+630,chr14,910628,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+631,chr14,914115,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+632,chr14,919511,T,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+633,chr14,923791,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+634,chr14,1034851,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+635,chr14,1102380,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+636,chr14,1102389,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+637,chr14,1102755,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+638,chr14,1105725,A,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+639,chr14,1106139,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+640,chr14,1111557,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+641,chr14,1137767,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+642,chr14,1166314,C,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+643,chr14,1171335,A,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+644,chr14,1171479,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+645,chr14,1172694,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+646,chr14,1179640,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+647,chr14,1193881,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+648,chr14,1199242,A,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+649,chr14,1227031,C,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+650,chr14,1236727,A,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+651,chr14,1334365,T,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+652,chr14,1336795,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+653,chr14,1351948,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+654,chr14,1397764,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+655,chr14,1454960,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+656,chr14,1467935,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+657,chr14,1576037,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+658,chr14,1656678,G,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+659,chr14,1661154,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+660,chr14,1671537,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+661,chr14,1745284,A,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+662,chr14,1745506,A,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+663,chr14,1758840,A,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+664,chr14,1775107,T,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+665,chr14,1798787,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+666,chr14,1817108,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+667,chr14,1823182,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+668,chr14,1853594,A,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+669,chr14,2000031,C,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+670,chr14,2000415,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+671,chr14,2070946,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+672,chr14,2098642,A,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+673,chr14,2124198,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+674,chr14,2128849,A,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+675,chr14,2144375,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+676,chr14,2160136,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+677,chr14,2160961,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+678,chr14,2169240,A,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+679,chr14,2196699,T,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+680,chr14,2267836,A,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+681,chr14,2287572,A,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+682,chr14,2331595,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+683,chr14,2342241,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+684,chr14,2351869,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+685,chr14,2442547,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+686,chr14,2534828,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+687,chr14,2540639,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+688,chr14,2619811,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+689,chr14,2630597,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+690,chr14,2639935,A,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+691,chr14,2669794,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+692,chr14,2674607,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+693,chr14,2695875,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+694,chr14,2695923,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+695,chr14,2712258,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+696,chr14,2732630,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+697,chr14,2733656,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+698,chr14,2752373,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+699,chr14,2755887,T,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+700,chr14,2856580,G,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+701,chr14,2887523,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+702,chr14,2913485,T,G,True,False,Pf3D7_14_v3,3291936,Neutral,b
+703,chr14,3043530,A,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+704,chr14,3045897,G,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+705,chr14,3193605,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+706,chr14,3194450,C,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+707,chr14,3194480,T,A,True,False,Pf3D7_14_v3,3291936,Neutral,b
+708,chr14,3194492,T,C,True,False,Pf3D7_14_v3,3291936,Neutral,b
+709,chr14,3240001,G,T,True,False,Pf3D7_14_v3,3291936,Neutral,b
+710,chr14,371725,G,A,True,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+711,chr14,564339,C,T,True,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+712,chr14,1362042,C,T,True,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+713,chr14,1636229,C,T,True,True,Pf3D7_14_v3,3291936,Geographically Informative,r
+714,chr2,278862,C,G,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+715,chr2,278864,C,A,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+716,chr2,290569,T,A,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+717,chr2,292382,A,T,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+718,chr2,297021,A,G,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+719,chr2,366771,G,A,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+720,chr2,367271,A,T,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+721,chr2,375098,G,A,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+722,chr2,375135,T,A,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+723,chr2,375427,G,A,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+724,chr2,375838,G,A,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+725,chr2,375922,T,A,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+726,chr2,376045,A,G,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+727,chr2,376222,A,G,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+728,chr2,379046,C,T,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+729,chr2,519370,G,A,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+730,chr2,519382,A,G,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+731,chr2,579278,A,T,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+732,chr2,608790,A,G,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+733,chr2,614962,A,G,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+734,chr2,615318,C,T,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+735,chr2,617482,C,T,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+736,chr2,623111,T,C,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+737,chr2,623146,T,C,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+738,chr2,628750,G,T,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+739,chr2,629060,T,C,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+740,chr2,629375,C,G,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+741,chr2,629996,C,A,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+742,chr2,630135,C,T,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+743,chr2,630150,T,C,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+744,chr2,630420,T,C,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+745,chr2,630450,C,G,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+746,chr2,630545,C,T,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+747,chr2,630710,G,A,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+748,chr2,630737,C,T,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+749,chr2,630990,G,T,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+750,chr2,631092,T,C,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+751,chr2,631190,T,A,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+752,chr2,641228,A,G,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+753,chr2,641789,A,G,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+754,chr2,658046,C,G,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+755,chr2,658385,C,T,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+756,chr2,798866,A,G,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+757,chr2,798907,C,T,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+758,chr2,799420,T,C,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+759,chr2,813895,T,A,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+760,chr2,813896,A,C,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+761,chr2,814288,C,T,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+762,chr2,814329,A,G,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+763,chr2,814702,A,G,False,True,Pf3D7_02_v3,947102,Geographically Informative,r
+764,chr2,199406,G,T,True,False,Pf3D7_02_v3,947102,Neutral,b
+765,chr2,206291,A,G,True,False,Pf3D7_02_v3,947102,Neutral,b
+766,chr2,207266,C,T,True,False,Pf3D7_02_v3,947102,Neutral,b
+767,chr2,222175,T,C,True,False,Pf3D7_02_v3,947102,Neutral,b
+768,chr2,276069,C,T,True,False,Pf3D7_02_v3,947102,Neutral,b
+769,chr2,278010,G,T,True,False,Pf3D7_02_v3,947102,Neutral,b
+770,chr2,292095,T,C,True,False,Pf3D7_02_v3,947102,Neutral,b
+771,chr2,310065,C,A,True,False,Pf3D7_02_v3,947102,Neutral,b
+772,chr2,320620,T,G,True,False,Pf3D7_02_v3,947102,Neutral,b
+773,chr2,320647,G,A,True,False,Pf3D7_02_v3,947102,Neutral,b
+774,chr2,322398,A,G,True,False,Pf3D7_02_v3,947102,Neutral,b
+775,chr2,322746,T,C,True,False,Pf3D7_02_v3,947102,Neutral,b
+776,chr2,322845,G,A,True,False,Pf3D7_02_v3,947102,Neutral,b
+777,chr2,322863,C,T,True,False,Pf3D7_02_v3,947102,Neutral,b
+778,chr2,323022,T,A,True,False,Pf3D7_02_v3,947102,Neutral,b
+779,chr2,372738,C,T,True,False,Pf3D7_02_v3,947102,Neutral,b
+780,chr2,375825,A,C,True,False,Pf3D7_02_v3,947102,Neutral,b
+781,chr2,401697,G,A,True,False,Pf3D7_02_v3,947102,Neutral,b
+782,chr2,480862,A,C,True,False,Pf3D7_02_v3,947102,Neutral,b
+783,chr2,501972,A,G,True,False,Pf3D7_02_v3,947102,Neutral,b
+784,chr2,503169,T,C,True,False,Pf3D7_02_v3,947102,Neutral,b
+785,chr2,504300,A,C,True,False,Pf3D7_02_v3,947102,Neutral,b
+786,chr2,512104,T,C,True,False,Pf3D7_02_v3,947102,Neutral,b
+787,chr2,516865,C,T,True,False,Pf3D7_02_v3,947102,Neutral,b
+788,chr2,549049,C,T,True,False,Pf3D7_02_v3,947102,Neutral,b
+789,chr2,550704,C,T,True,False,Pf3D7_02_v3,947102,Neutral,b
+790,chr2,554110,G,A,True,False,Pf3D7_02_v3,947102,Neutral,b
+791,chr2,558953,A,G,True,False,Pf3D7_02_v3,947102,Neutral,b
+792,chr2,651509,A,G,True,False,Pf3D7_02_v3,947102,Neutral,b
+793,chr2,671972,A,C,True,False,Pf3D7_02_v3,947102,Neutral,b
+794,chr2,693095,T,A,True,False,Pf3D7_02_v3,947102,Neutral,b
+795,chr2,694307,A,G,True,False,Pf3D7_02_v3,947102,Neutral,b
+796,chr2,709850,C,T,True,False,Pf3D7_02_v3,947102,Neutral,b
+797,chr2,712208,A,G,True,False,Pf3D7_02_v3,947102,Neutral,b
+798,chr2,797146,A,T,True,False,Pf3D7_02_v3,947102,Neutral,b
+799,chr2,800017,G,A,True,False,Pf3D7_02_v3,947102,Neutral,b
+800,chr2,800695,A,G,True,False,Pf3D7_02_v3,947102,Neutral,b
+801,chr2,805983,A,G,True,False,Pf3D7_02_v3,947102,Neutral,b
+802,chr2,839178,C,T,True,False,Pf3D7_02_v3,947102,Neutral,b
+803,chr2,839620,T,C,True,False,Pf3D7_02_v3,947102,Neutral,b
+804,chr2,841296,C,T,True,False,Pf3D7_02_v3,947102,Neutral,b
+805,chr2,841795,T,G,True,False,Pf3D7_02_v3,947102,Neutral,b
+806,chr2,841819,C,T,True,False,Pf3D7_02_v3,947102,Neutral,b
+807,chr2,845795,C,T,True,False,Pf3D7_02_v3,947102,Neutral,b
+808,chr3,140020,T,C,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+809,chr3,442821,T,C,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+810,chr3,444950,A,T,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+811,chr3,469760,C,T,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+812,chr3,474002,T,C,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+813,chr3,563024,G,A,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+814,chr3,622763,G,C,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+815,chr3,689280,T,G,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+816,chr3,775498,G,A,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+817,chr3,776823,G,T,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+818,chr3,783697,C,T,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+819,chr3,788401,G,C,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+820,chr3,804929,T,A,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+821,chr3,805130,G,A,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+822,chr3,807785,T,A,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+823,chr3,826589,G,A,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+824,chr3,827158,A,T,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+825,chr3,827900,A,T,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+826,chr3,827914,A,G,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+827,chr3,830833,T,C,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+828,chr3,836094,G,T,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+829,chr3,844117,A,T,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+830,chr3,849667,A,G,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+831,chr3,849691,G,T,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+832,chr3,849850,C,T,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+833,chr3,851712,C,A,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+834,chr3,853052,T,C,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+835,chr3,897800,C,G,False,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+836,chr3,71323,T,C,True,False,Pf3D7_03_v3,1067971,Neutral,b
+837,chr3,104807,A,G,True,False,Pf3D7_03_v3,1067971,Neutral,b
+838,chr3,104810,A,G,True,False,Pf3D7_03_v3,1067971,Neutral,b
+839,chr3,106144,A,G,True,False,Pf3D7_03_v3,1067971,Neutral,b
+840,chr3,109722,G,A,True,False,Pf3D7_03_v3,1067971,Neutral,b
+841,chr3,117765,C,A,True,False,Pf3D7_03_v3,1067971,Neutral,b
+842,chr3,124534,C,T,True,False,Pf3D7_03_v3,1067971,Neutral,b
+843,chr3,140294,T,C,True,False,Pf3D7_03_v3,1067971,Neutral,b
+844,chr3,140327,C,T,True,False,Pf3D7_03_v3,1067971,Neutral,b
+845,chr3,140417,C,T,True,False,Pf3D7_03_v3,1067971,Neutral,b
+846,chr3,140420,A,C,True,False,Pf3D7_03_v3,1067971,Neutral,b
+847,chr3,140444,G,A,True,False,Pf3D7_03_v3,1067971,Neutral,b
+848,chr3,140459,T,C,True,False,Pf3D7_03_v3,1067971,Neutral,b
+849,chr3,142944,G,T,True,False,Pf3D7_03_v3,1067971,Neutral,b
+850,chr3,183105,T,A,True,False,Pf3D7_03_v3,1067971,Neutral,b
+851,chr3,185604,C,T,True,False,Pf3D7_03_v3,1067971,Neutral,b
+852,chr3,205816,C,T,True,False,Pf3D7_03_v3,1067971,Neutral,b
+853,chr3,241146,T,G,True,False,Pf3D7_03_v3,1067971,Neutral,b
+854,chr3,282671,A,G,True,False,Pf3D7_03_v3,1067971,Neutral,b
+855,chr3,285065,T,C,True,False,Pf3D7_03_v3,1067971,Neutral,b
+856,chr3,302963,A,G,True,False,Pf3D7_03_v3,1067971,Neutral,b
+857,chr3,341291,A,G,True,False,Pf3D7_03_v3,1067971,Neutral,b
+858,chr3,354592,T,C,True,False,Pf3D7_03_v3,1067971,Neutral,b
+859,chr3,361199,C,T,True,False,Pf3D7_03_v3,1067971,Neutral,b
+860,chr3,363473,C,T,True,False,Pf3D7_03_v3,1067971,Neutral,b
+861,chr3,363731,A,G,True,False,Pf3D7_03_v3,1067971,Neutral,b
+862,chr3,489823,G,C,True,False,Pf3D7_03_v3,1067971,Neutral,b
+863,chr3,507008,G,A,True,False,Pf3D7_03_v3,1067971,Neutral,b
+864,chr3,507451,C,T,True,False,Pf3D7_03_v3,1067971,Neutral,b
+865,chr3,509618,G,A,True,False,Pf3D7_03_v3,1067971,Neutral,b
+866,chr3,510782,A,G,True,False,Pf3D7_03_v3,1067971,Neutral,b
+867,chr3,514084,T,C,True,False,Pf3D7_03_v3,1067971,Neutral,b
+868,chr3,645241,G,A,True,False,Pf3D7_03_v3,1067971,Neutral,b
+869,chr3,654452,G,A,True,False,Pf3D7_03_v3,1067971,Neutral,b
+870,chr3,674673,C,A,True,False,Pf3D7_03_v3,1067971,Neutral,b
+871,chr3,679453,G,A,True,False,Pf3D7_03_v3,1067971,Neutral,b
+872,chr3,680179,G,A,True,False,Pf3D7_03_v3,1067971,Neutral,b
+873,chr3,683314,C,T,True,False,Pf3D7_03_v3,1067971,Neutral,b
+874,chr3,730277,A,G,True,False,Pf3D7_03_v3,1067971,Neutral,b
+875,chr3,749616,A,G,True,False,Pf3D7_03_v3,1067971,Neutral,b
+876,chr3,750795,T,C,True,False,Pf3D7_03_v3,1067971,Neutral,b
+877,chr3,750882,A,G,True,False,Pf3D7_03_v3,1067971,Neutral,b
+878,chr3,752418,A,T,True,False,Pf3D7_03_v3,1067971,Neutral,b
+879,chr3,756863,G,T,True,False,Pf3D7_03_v3,1067971,Neutral,b
+880,chr3,777465,A,T,True,False,Pf3D7_03_v3,1067971,Neutral,b
+881,chr3,796056,T,C,True,False,Pf3D7_03_v3,1067971,Neutral,b
+882,chr3,831268,T,C,True,False,Pf3D7_03_v3,1067971,Neutral,b
+883,chr3,879466,A,C,True,False,Pf3D7_03_v3,1067971,Neutral,b
+884,chr3,887238,T,C,True,False,Pf3D7_03_v3,1067971,Neutral,b
+885,chr3,888429,G,A,True,False,Pf3D7_03_v3,1067971,Neutral,b
+886,chr3,892045,C,T,True,False,Pf3D7_03_v3,1067971,Neutral,b
+887,chr3,896996,G,A,True,False,Pf3D7_03_v3,1067971,Neutral,b
+888,chr3,916639,C,A,True,False,Pf3D7_03_v3,1067971,Neutral,b
+889,chr3,916641,A,G,True,False,Pf3D7_03_v3,1067971,Neutral,b
+890,chr3,916719,C,T,True,False,Pf3D7_03_v3,1067971,Neutral,b
+891,chr3,917487,T,C,True,False,Pf3D7_03_v3,1067971,Neutral,b
+892,chr3,920967,A,G,True,False,Pf3D7_03_v3,1067971,Neutral,b
+893,chr3,924907,G,T,True,False,Pf3D7_03_v3,1067971,Neutral,b
+894,chr3,943993,G,A,True,False,Pf3D7_03_v3,1067971,Neutral,b
+895,chr3,946197,G,A,True,False,Pf3D7_03_v3,1067971,Neutral,b
+896,chr3,988828,G,T,True,False,Pf3D7_03_v3,1067971,Neutral,b
+897,chr3,140060,T,A,True,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+898,chr3,805764,C,T,True,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+899,chr3,812699,C,T,True,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+900,chr3,823303,C,G,True,True,Pf3D7_03_v3,1067971,Geographically Informative,r
+901,chr4,110012,C,A,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+902,chr4,124690,T,C,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+903,chr4,138491,A,G,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+904,chr4,141896,G,A,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+905,chr4,242143,G,C,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+906,chr4,249905,C,G,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+907,chr4,306875,C,T,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+908,chr4,413424,C,T,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+909,chr4,415158,G,A,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+910,chr4,485881,A,T,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+911,chr4,731095,A,C,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+912,chr4,739967,C,T,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+913,chr4,741600,T,C,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+914,chr4,748262,T,C,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+915,chr4,767099,T,G,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+916,chr4,771505,A,G,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+917,chr4,802705,G,A,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+918,chr4,884153,T,G,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+919,chr4,884558,G,A,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+920,chr4,1065176,C,T,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+921,chr4,1065188,C,G,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+922,chr4,1071662,C,T,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+923,chr4,1082657,T,G,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+924,chr4,1083502,G,C,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+925,chr4,1083505,A,G,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+926,chr4,1089818,G,T,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+927,chr4,1113532,C,A,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+928,chr4,1113552,A,T,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+929,chr4,1121457,C,G,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+930,chr4,1121472,T,A,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+931,chr4,1122147,A,C,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+932,chr4,1123679,A,T,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+933,chr4,1124303,C,T,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+934,chr4,1124379,A,G,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+935,chr4,1125973,A,G,False,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+936,chr4,130689,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+937,chr4,139405,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+938,chr4,143683,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+939,chr4,143869,A,C,True,False,Pf3D7_04_v3,1200490,Neutral,b
+940,chr4,144991,G,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+941,chr4,187225,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+942,chr4,208960,G,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+943,chr4,358245,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+944,chr4,390170,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+945,chr4,418411,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+946,chr4,450161,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+947,chr4,487211,A,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+948,chr4,508879,T,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+949,chr4,514993,A,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+950,chr4,515065,G,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+951,chr4,515611,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+952,chr4,515842,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+953,chr4,516697,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+954,chr4,521290,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+955,chr4,521293,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+956,chr4,529239,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+957,chr4,529482,T,C,True,False,Pf3D7_04_v3,1200490,Neutral,b
+958,chr4,538180,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+959,chr4,544797,T,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+960,chr4,623794,G,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+961,chr4,625475,C,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+962,chr4,630638,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+963,chr4,630923,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+964,chr4,635087,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+965,chr4,659190,C,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+966,chr4,668673,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+967,chr4,673790,A,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+968,chr4,683072,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+969,chr4,684674,T,C,True,False,Pf3D7_04_v3,1200490,Neutral,b
+970,chr4,691520,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+971,chr4,692160,G,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+972,chr4,776030,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+973,chr4,781969,G,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+974,chr4,787660,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+975,chr4,788194,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+976,chr4,788206,G,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+977,chr4,788209,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+978,chr4,789241,T,C,True,False,Pf3D7_04_v3,1200490,Neutral,b
+979,chr4,791143,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+980,chr4,793904,G,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+981,chr4,794321,T,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+982,chr4,797704,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+983,chr4,831954,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+984,chr4,832143,T,C,True,False,Pf3D7_04_v3,1200490,Neutral,b
+985,chr4,835428,T,C,True,False,Pf3D7_04_v3,1200490,Neutral,b
+986,chr4,836490,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+987,chr4,838218,C,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+988,chr4,839310,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+989,chr4,848597,T,C,True,False,Pf3D7_04_v3,1200490,Neutral,b
+990,chr4,856066,T,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+991,chr4,856599,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+992,chr4,860463,T,C,True,False,Pf3D7_04_v3,1200490,Neutral,b
+993,chr4,865237,C,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+994,chr4,865912,T,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+995,chr4,887172,C,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+996,chr4,889062,A,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+997,chr4,897462,C,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+998,chr4,898407,A,C,True,False,Pf3D7_04_v3,1200490,Neutral,b
+999,chr4,899970,T,C,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1000,chr4,910225,G,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1001,chr4,920566,G,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1002,chr4,925627,G,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1003,chr4,927454,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1004,chr4,930011,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1005,chr4,932894,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1006,chr4,933875,T,C,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1007,chr4,989663,G,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1008,chr4,992024,G,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1009,chr4,1029658,T,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1010,chr4,1032346,T,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1011,chr4,1032565,T,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1012,chr4,1032592,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1013,chr4,1035493,G,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1014,chr4,1035499,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1015,chr4,1036984,G,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1016,chr4,1037890,C,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1017,chr4,1038820,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1018,chr4,1049838,A,G,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1019,chr4,1050905,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1020,chr4,1095831,G,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1021,chr4,1096152,A,C,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1022,chr4,1096167,T,C,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1023,chr4,1097601,T,C,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1024,chr4,1102926,C,T,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1025,chr4,1128499,G,A,True,False,Pf3D7_04_v3,1200490,Neutral,b
+1026,chr4,738775,G,A,True,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+1027,chr4,802695,C,T,True,True,Pf3D7_04_v3,1200490,Geographically Informative,r
+1028,chr5,242645,G,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1029,chr5,286141,T,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1030,chr5,287018,T,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1031,chr5,303419,T,C,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1032,chr5,318096,T,C,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1033,chr5,325026,G,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1034,chr5,325030,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1035,chr5,360322,G,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1036,chr5,367065,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1037,chr5,370984,T,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1038,chr5,384494,T,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1039,chr5,402624,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1040,chr5,402768,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1041,chr5,480337,A,C,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1042,chr5,482336,T,C,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1043,chr5,575556,C,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1044,chr5,613888,C,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1045,chr5,632372,T,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1046,chr5,648378,G,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1047,chr5,697513,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1048,chr5,765857,T,C,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1049,chr5,772671,T,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1050,chr5,776125,T,C,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1051,chr5,783503,C,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1052,chr5,787141,A,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1053,chr5,803584,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1054,chr5,806896,C,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1055,chr5,814159,C,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1056,chr5,826882,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1057,chr5,829676,T,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1058,chr5,836456,C,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1059,chr5,838933,T,C,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1060,chr5,842922,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1061,chr5,843390,T,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1062,chr5,844730,G,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1063,chr5,860853,G,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1064,chr5,878669,T,C,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1065,chr5,889725,C,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1066,chr5,893494,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1067,chr5,908694,C,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1068,chr5,911244,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1069,chr5,911820,C,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1070,chr5,912158,C,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1071,chr5,912856,G,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1072,chr5,913028,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1073,chr5,913473,A,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1074,chr5,914345,G,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1075,chr5,919062,C,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1076,chr5,920940,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1077,chr5,929348,A,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1078,chr5,929755,G,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1079,chr5,931503,T,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1080,chr5,933062,T,C,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1081,chr5,935006,T,C,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1082,chr5,941359,T,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1083,chr5,949342,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1084,chr5,958145,A,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1085,chr5,960046,C,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1086,chr5,961625,G,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1087,chr5,971977,G,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1088,chr5,973734,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1089,chr5,978914,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1090,chr5,979239,A,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1091,chr5,979877,T,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1092,chr5,981740,A,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1093,chr5,984614,G,C,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1094,chr5,1009091,A,C,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1095,chr5,1011550,C,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1096,chr5,1037173,A,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1097,chr5,1038270,G,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1098,chr5,1042252,G,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1099,chr5,1042561,T,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1100,chr5,1042766,A,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1101,chr5,1043303,G,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1102,chr5,1065356,T,C,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1103,chr5,1066372,A,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1104,chr5,1069392,T,A,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1105,chr5,1105159,T,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1106,chr5,1108238,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1107,chr5,1108422,A,C,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1108,chr5,1108445,G,T,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1109,chr5,1109432,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1110,chr5,1114182,A,G,False,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1111,chr5,84637,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1112,chr5,132132,C,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1113,chr5,132201,T,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1114,chr5,144161,T,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1115,chr5,145385,T,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1116,chr5,146696,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1117,chr5,158020,T,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1118,chr5,198142,A,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1119,chr5,198958,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1120,chr5,224735,G,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1121,chr5,277520,T,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1122,chr5,289916,A,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1123,chr5,324155,C,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1124,chr5,345188,G,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1125,chr5,350933,G,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1126,chr5,351005,G,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1127,chr5,352439,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1128,chr5,364200,T,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1129,chr5,369740,T,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1130,chr5,370000,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1131,chr5,381640,T,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1132,chr5,385372,C,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1133,chr5,391225,T,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1134,chr5,397372,T,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1135,chr5,398584,C,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1136,chr5,404998,T,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1137,chr5,426361,G,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1138,chr5,472369,G,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1139,chr5,474904,G,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1140,chr5,476050,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1141,chr5,477271,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1142,chr5,477676,T,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1143,chr5,477900,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1144,chr5,501445,C,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1145,chr5,503395,C,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1146,chr5,507871,A,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1147,chr5,512965,T,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1148,chr5,564993,T,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1149,chr5,571202,C,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1150,chr5,585378,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1151,chr5,598347,C,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1152,chr5,610142,C,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1153,chr5,614723,C,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1154,chr5,615420,G,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1155,chr5,622364,C,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1156,chr5,635277,T,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1157,chr5,673560,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1158,chr5,679399,T,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1159,chr5,680745,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1160,chr5,697362,T,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1161,chr5,719091,T,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1162,chr5,734301,C,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1163,chr5,771157,T,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1164,chr5,776283,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1165,chr5,780325,A,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1166,chr5,788823,G,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1167,chr5,797269,G,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1168,chr5,797338,C,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1169,chr5,797395,G,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1170,chr5,801588,A,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1171,chr5,826855,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1172,chr5,831871,C,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1173,chr5,840339,C,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1174,chr5,851719,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1175,chr5,855823,T,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1176,chr5,921466,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1177,chr5,930435,C,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1178,chr5,940677,T,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1179,chr5,960409,T,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1180,chr5,961096,T,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1181,chr5,967820,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1182,chr5,999556,T,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1183,chr5,1007374,G,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1184,chr5,1037569,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1185,chr5,1063005,T,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1186,chr5,1071405,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1187,chr5,1089097,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1188,chr5,1092309,C,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1189,chr5,1136741,T,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1190,chr5,1161287,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1191,chr5,1172818,C,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1192,chr5,1178426,C,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1193,chr5,1181373,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1194,chr5,1187684,A,T,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1195,chr5,1187705,G,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1196,chr5,1188335,G,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1197,chr5,1188491,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1198,chr5,1188542,T,C,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1199,chr5,1196977,G,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1200,chr5,1196989,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1201,chr5,1283713,G,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1202,chr5,1303863,A,G,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1203,chr5,1309298,T,A,True,False,Pf3D7_05_v3,1343557,Neutral,b
+1204,chr5,626470,C,T,True,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1205,chr5,743364,G,A,True,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1206,chr5,897486,A,G,True,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1207,chr5,910204,G,A,True,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1208,chr5,1080174,G,A,True,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1209,chr5,1107403,C,T,True,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1210,chr5,1133651,A,G,True,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1211,chr5,1134206,A,G,True,True,Pf3D7_05_v3,1343557,Geographically Informative,r
+1212,chr6,237194,T,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1213,chr6,312414,G,C,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1214,chr6,378245,C,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1215,chr6,379446,T,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1216,chr6,380234,G,A,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1217,chr6,382976,G,C,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1218,chr6,389754,A,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1219,chr6,390001,G,A,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1220,chr6,635935,T,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1221,chr6,636044,A,C,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1222,chr6,664888,G,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1223,chr6,685240,G,A,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1224,chr6,687394,T,C,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1225,chr6,697009,A,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1226,chr6,842714,G,A,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1227,chr6,842727,C,A,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1228,chr6,851530,C,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1229,chr6,851736,C,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1230,chr6,951402,G,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1231,chr6,966409,A,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1232,chr6,981146,A,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1233,chr6,984431,C,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1234,chr6,985434,T,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1235,chr6,993300,G,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1236,chr6,1007592,G,A,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1237,chr6,1017274,G,C,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1238,chr6,1029663,T,C,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1239,chr6,1035326,G,A,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1240,chr6,1048741,T,C,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1241,chr6,1051119,A,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1242,chr6,1067690,C,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1243,chr6,1091436,A,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1244,chr6,1095869,G,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1245,chr6,1100815,G,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1246,chr6,1115191,A,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1247,chr6,1116117,C,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1248,chr6,1116592,G,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1249,chr6,1117000,T,C,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1250,chr6,1117447,T,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1251,chr6,1120459,A,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1252,chr6,1121650,C,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1253,chr6,1125027,C,A,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1254,chr6,1126423,C,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1255,chr6,1129620,T,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1256,chr6,1160911,C,A,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1257,chr6,1192690,G,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1258,chr6,1193139,A,C,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1259,chr6,1206227,A,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1260,chr6,1206498,G,A,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1261,chr6,1207597,G,A,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1262,chr6,1214259,C,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1263,chr6,1215233,G,A,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1264,chr6,1224777,T,A,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1265,chr6,1231288,C,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1266,chr6,1238829,A,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1267,chr6,1240578,T,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1268,chr6,1245389,C,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1269,chr6,1252816,A,G,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1270,chr6,1260016,A,T,False,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1271,chr6,114520,G,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1272,chr6,114745,T,C,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1273,chr6,116629,G,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1274,chr6,120018,G,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1275,chr6,136342,C,T,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1276,chr6,148827,T,C,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1277,chr6,158543,T,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1278,chr6,182965,T,C,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1279,chr6,231858,T,C,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1280,chr6,242392,T,C,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1281,chr6,321567,A,C,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1282,chr6,345483,C,T,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1283,chr6,380877,A,C,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1284,chr6,408976,C,T,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1285,chr6,491628,T,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1286,chr6,529076,G,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1287,chr6,531935,G,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1288,chr6,532304,T,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1289,chr6,532523,A,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1290,chr6,571121,A,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1291,chr6,590606,A,C,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1292,chr6,621173,A,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1293,chr6,634139,T,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1294,chr6,639086,C,T,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1295,chr6,776260,G,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1296,chr6,780026,T,C,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1297,chr6,788021,C,T,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1298,chr6,803395,T,C,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1299,chr6,816606,A,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1300,chr6,824200,C,T,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1301,chr6,834400,G,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1302,chr6,836560,C,T,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1303,chr6,847198,A,T,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1304,chr6,887805,G,T,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1305,chr6,895391,A,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1306,chr6,909069,C,T,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1307,chr6,937752,G,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1308,chr6,938238,A,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1309,chr6,962327,T,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1310,chr6,991899,T,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1311,chr6,1002835,A,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1312,chr6,1027653,A,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1313,chr6,1028182,G,T,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1314,chr6,1040344,G,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1315,chr6,1056479,A,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1316,chr6,1111541,C,T,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1317,chr6,1114928,A,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1318,chr6,1115372,G,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1319,chr6,1115453,A,C,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1320,chr6,1116314,T,C,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1321,chr6,1130064,G,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1322,chr6,1132350,G,T,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1323,chr6,1136295,T,C,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1324,chr6,1151994,A,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1325,chr6,1252136,T,C,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1326,chr6,1256674,A,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1327,chr6,1266060,G,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1328,chr6,1266600,A,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1329,chr6,1267260,T,C,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1330,chr6,1267752,G,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1331,chr6,1268187,A,T,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1332,chr6,1268325,G,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1333,chr6,1268778,A,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1334,chr6,1268973,C,T,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1335,chr6,1280801,G,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1336,chr6,1282493,A,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1337,chr6,1282691,G,A,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1338,chr6,1282748,C,T,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1339,chr6,1283063,A,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1340,chr6,1289212,A,G,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1341,chr6,1291860,A,C,True,False,Pf3D7_06_v3,1418242,Neutral,b
+1342,chr6,1197298,T,G,True,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1343,chr6,1235507,C,T,True,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1344,chr6,1241113,G,A,True,True,Pf3D7_06_v3,1418242,Geographically Informative,r
+1345,chr7,105245,C,G,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1346,chr7,105280,C,T,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1347,chr7,105304,T,C,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1348,chr7,105510,C,T,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1349,chr7,370875,A,G,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1350,chr7,375818,T,C,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1351,chr7,377477,C,A,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1352,chr7,383137,A,C,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1353,chr7,383166,C,T,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1354,chr7,385921,C,T,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1355,chr7,391494,T,C,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1356,chr7,403337,G,T,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1357,chr7,403625,A,C,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1358,chr7,405838,G,T,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1359,chr7,406231,C,T,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1360,chr7,408697,A,C,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1361,chr7,408743,G,A,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1362,chr7,410036,A,G,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1363,chr7,410132,C,G,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1364,chr7,411006,A,C,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1365,chr7,411011,T,G,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1366,chr7,411597,A,T,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1367,chr7,412466,A,G,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1368,chr7,414615,A,T,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1369,chr7,415137,C,T,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1370,chr7,416615,T,A,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1371,chr7,417360,C,A,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1372,chr7,420853,T,G,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1373,chr7,420908,C,G,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1374,chr7,420925,G,C,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1375,chr7,421420,G,A,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1376,chr7,421931,C,T,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1377,chr7,421932,C,T,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1378,chr7,426753,A,T,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1379,chr7,430364,T,G,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1380,chr7,432784,T,A,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1381,chr7,726594,A,G,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1382,chr7,726661,T,A,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1383,chr7,729531,C,G,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1384,chr7,730051,G,A,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1385,chr7,730062,A,G,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1386,chr7,730791,G,C,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1387,chr7,731035,C,A,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1388,chr7,816733,A,G,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1389,chr7,817583,G,C,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1390,chr7,886501,C,T,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1391,chr7,905171,C,A,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1392,chr7,956463,A,G,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1393,chr7,1026510,A,G,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1394,chr7,1050972,C,A,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1395,chr7,1053154,G,T,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1396,chr7,1056801,A,T,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1397,chr7,1112029,C,T,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1398,chr7,1133686,T,C,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1399,chr7,1134417,T,A,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1400,chr7,1369199,G,A,False,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1401,chr7,125579,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1402,chr7,157547,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1403,chr7,157565,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1404,chr7,157601,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1405,chr7,162203,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1406,chr7,194825,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1407,chr7,199193,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1408,chr7,203171,T,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1409,chr7,204987,T,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1410,chr7,226177,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1411,chr7,226222,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1412,chr7,227275,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1413,chr7,228601,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1414,chr7,264223,A,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1415,chr7,276094,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1416,chr7,298916,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1417,chr7,344469,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1418,chr7,354126,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1419,chr7,358917,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1420,chr7,378669,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1421,chr7,384293,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1422,chr7,392078,T,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1423,chr7,409108,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1424,chr7,411244,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1425,chr7,411352,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1426,chr7,417622,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1427,chr7,418378,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1428,chr7,419410,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1429,chr7,419413,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1430,chr7,420336,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1431,chr7,426245,G,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1432,chr7,430421,A,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1433,chr7,430538,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1434,chr7,430993,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1435,chr7,431194,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1436,chr7,431908,A,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1437,chr7,433054,T,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1438,chr7,433609,A,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1439,chr7,438905,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1440,chr7,449987,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1441,chr7,450032,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1442,chr7,450527,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1443,chr7,450529,G,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1444,chr7,450854,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1445,chr7,451331,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1446,chr7,455362,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1447,chr7,455494,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1448,chr7,456774,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1449,chr7,461191,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1450,chr7,464800,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1451,chr7,465019,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1452,chr7,469248,A,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1453,chr7,469353,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1454,chr7,470982,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1455,chr7,471237,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1456,chr7,472858,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1457,chr7,472864,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1458,chr7,473203,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1459,chr7,475324,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1460,chr7,483145,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1461,chr7,489150,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1462,chr7,489153,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1463,chr7,489666,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1464,chr7,492639,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1465,chr7,495462,T,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1466,chr7,497580,A,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1467,chr7,501191,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1468,chr7,505865,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1469,chr7,506984,C,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1470,chr7,507068,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1471,chr7,612906,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1472,chr7,614420,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1473,chr7,614531,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1474,chr7,614645,C,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1475,chr7,618007,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1476,chr7,619279,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1477,chr7,619738,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1478,chr7,619918,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1479,chr7,619924,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1480,chr7,619957,G,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1481,chr7,620774,T,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1482,chr7,627478,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1483,chr7,628825,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1484,chr7,631383,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1485,chr7,635254,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1486,chr7,635335,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1487,chr7,674338,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1488,chr7,678341,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1489,chr7,691736,C,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1490,chr7,692714,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1491,chr7,699262,G,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1492,chr7,700615,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1493,chr7,704373,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1494,chr7,705531,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1495,chr7,706335,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1496,chr7,725998,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1497,chr7,732859,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1498,chr7,736978,A,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1499,chr7,743191,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1500,chr7,744613,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1501,chr7,774722,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1502,chr7,796964,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1503,chr7,814407,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1504,chr7,844728,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1505,chr7,880789,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1506,chr7,884366,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1507,chr7,884384,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1508,chr7,894384,C,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1509,chr7,905648,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1510,chr7,910699,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1511,chr7,932156,T,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1512,chr7,990172,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1513,chr7,1001981,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1514,chr7,1008272,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1515,chr7,1011137,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1516,chr7,1031428,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1517,chr7,1044052,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1518,chr7,1048937,T,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1519,chr7,1065887,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1520,chr7,1071621,C,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1521,chr7,1093689,T,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1522,chr7,1093704,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1523,chr7,1105526,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1524,chr7,1111528,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1525,chr7,1153877,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1526,chr7,1168247,T,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1527,chr7,1170209,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1528,chr7,1171742,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1529,chr7,1172507,T,C,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1530,chr7,1234511,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1531,chr7,1256654,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1532,chr7,1257296,G,A,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1533,chr7,1269371,C,T,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1534,chr7,1311891,A,G,True,False,Pf3D7_07_v3,1445207,Neutral,b
+1535,chr7,375471,T,A,True,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1536,chr7,384302,C,T,True,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1537,chr7,426524,G,A,True,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1538,chr7,435368,T,C,True,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1539,chr7,435497,A,T,True,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1540,chr7,732862,C,T,True,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1541,chr7,732865,G,A,True,True,Pf3D7_07_v3,1445207,Geographically Informative,r
+1542,chr8,97831,C,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1543,chr8,102094,T,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1544,chr8,340367,T,G,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1545,chr8,340944,T,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1546,chr8,411361,T,G,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1547,chr8,414715,C,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1548,chr8,477797,A,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1549,chr8,490710,G,A,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1550,chr8,491465,C,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1551,chr8,497184,T,A,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1552,chr8,501572,T,A,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1553,chr8,503494,C,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1554,chr8,511014,G,A,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1555,chr8,517675,C,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1556,chr8,521529,T,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1557,chr8,523869,A,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1558,chr8,525973,T,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1559,chr8,529764,T,A,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1560,chr8,542281,A,G,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1561,chr8,542477,A,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1562,chr8,542685,A,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1563,chr8,543476,A,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1564,chr8,544529,T,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1565,chr8,549666,A,G,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1566,chr8,549681,T,G,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1567,chr8,549685,G,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1568,chr8,549993,A,G,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1569,chr8,550212,G,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1570,chr8,551179,C,G,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1571,chr8,554173,G,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1572,chr8,554401,T,A,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1573,chr8,555547,A,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1574,chr8,555660,T,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1575,chr8,557087,A,G,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1576,chr8,559809,T,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1577,chr8,561907,G,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1578,chr8,562548,A,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1579,chr8,562617,T,A,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1580,chr8,579963,A,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1581,chr8,585466,G,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1582,chr8,585841,C,G,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1583,chr8,585854,A,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1584,chr8,586054,A,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1585,chr8,590906,T,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1586,chr8,591422,G,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1587,chr8,591455,A,G,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1588,chr8,593626,T,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1589,chr8,599367,G,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1590,chr8,599634,A,G,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1591,chr8,606655,C,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1592,chr8,616058,C,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1593,chr8,619138,A,G,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1594,chr8,620010,G,A,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1595,chr8,628698,G,A,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1596,chr8,628911,T,G,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1597,chr8,673827,A,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1598,chr8,682301,T,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1599,chr8,703454,C,A,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1600,chr8,713998,A,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1601,chr8,714198,G,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1602,chr8,783960,T,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1603,chr8,806841,T,A,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1604,chr8,812784,A,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1605,chr8,845787,T,A,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1606,chr8,847329,C,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1607,chr8,885980,A,G,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1608,chr8,933060,T,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1609,chr8,991389,G,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1610,chr8,1001970,C,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1611,chr8,1063363,A,G,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1612,chr8,1064970,G,A,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1613,chr8,1147488,C,A,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1614,chr8,1325198,T,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1615,chr8,1325396,G,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1616,chr8,1344569,T,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1617,chr8,1344735,A,T,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1618,chr8,1344737,G,C,False,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1619,chr8,149943,A,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1620,chr8,157014,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1621,chr8,173187,G,A,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1622,chr8,225755,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1623,chr8,229424,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1624,chr8,262211,A,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1625,chr8,262214,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1626,chr8,305487,A,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1627,chr8,339637,A,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1628,chr8,379353,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1629,chr8,395711,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1630,chr8,396812,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1631,chr8,406969,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1632,chr8,406993,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1633,chr8,411216,G,A,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1634,chr8,413022,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1635,chr8,413067,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1636,chr8,416476,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1637,chr8,416482,G,A,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1638,chr8,416491,G,A,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1639,chr8,416821,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1640,chr8,422094,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1641,chr8,422166,G,A,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1642,chr8,422226,A,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1643,chr8,422505,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1644,chr8,424167,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1645,chr8,468669,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1646,chr8,475920,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1647,chr8,476310,A,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1648,chr8,477453,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1649,chr8,478683,A,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1650,chr8,478701,T,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1651,chr8,483714,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1652,chr8,484954,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1653,chr8,486805,G,A,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1654,chr8,486832,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1655,chr8,486841,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1656,chr8,492502,T,A,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1657,chr8,495550,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1658,chr8,499624,T,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1659,chr8,500772,A,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1660,chr8,501042,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1661,chr8,501054,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1662,chr8,505739,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1663,chr8,509321,G,A,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1664,chr8,526923,A,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1665,chr8,548801,G,A,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1666,chr8,572299,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1667,chr8,591335,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1668,chr8,591344,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1669,chr8,676681,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1670,chr8,691096,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1671,chr8,693543,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1672,chr8,701614,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1673,chr8,703997,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1674,chr8,704027,G,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1675,chr8,704408,G,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1676,chr8,706168,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1677,chr8,706777,A,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1678,chr8,711421,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1679,chr8,712741,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1680,chr8,724801,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1681,chr8,739292,T,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1682,chr8,895843,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1683,chr8,919126,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1684,chr8,925409,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1685,chr8,958663,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1686,chr8,968339,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1687,chr8,987074,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1688,chr8,1029921,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1689,chr8,1058469,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1690,chr8,1062754,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1691,chr8,1099695,G,A,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1692,chr8,1100055,G,A,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1693,chr8,1100058,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1694,chr8,1102025,G,A,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1695,chr8,1103899,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1696,chr8,1111913,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1697,chr8,1111945,C,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1698,chr8,1113495,G,A,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1699,chr8,1114155,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1700,chr8,1115375,G,A,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1701,chr8,1116300,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1702,chr8,1117245,A,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1703,chr8,1144251,A,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1704,chr8,1171170,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1705,chr8,1174850,G,A,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1706,chr8,1176413,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1707,chr8,1178845,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1708,chr8,1201455,C,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1709,chr8,1215502,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1710,chr8,1297594,A,G,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1711,chr8,1313202,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1712,chr8,1314033,A,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1713,chr8,1315695,T,A,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1714,chr8,1363213,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1715,chr8,1363222,A,T,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1716,chr8,1363303,T,C,True,False,Pf3D7_08_v3,1472805,Neutral,b
+1717,chr8,417760,A,G,True,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1718,chr8,490546,A,G,True,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1719,chr8,490636,C,G,True,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1720,chr8,490762,C,T,True,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1721,chr8,495850,A,G,True,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1722,chr8,500639,G,A,True,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1723,chr8,501390,A,C,True,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1724,chr8,502993,G,A,True,True,Pf3D7_08_v3,1472805,Geographically Informative,r
+1725,chr9,115178,T,C,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1726,chr9,289408,A,T,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1727,chr9,291211,C,T,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1728,chr9,292704,G,A,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1729,chr9,300174,G,A,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1730,chr9,453522,G,C,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1731,chr9,456109,T,C,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1732,chr9,479660,C,T,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1733,chr9,512326,A,C,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1734,chr9,512739,G,C,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1735,chr9,512763,T,C,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1736,chr9,515904,A,C,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1737,chr9,516978,G,A,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1738,chr9,517008,A,G,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1739,chr9,573256,T,A,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1740,chr9,596674,T,C,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1741,chr9,747558,G,A,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1742,chr9,747864,T,C,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1743,chr9,778075,A,T,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1744,chr9,951261,A,G,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1745,chr9,963651,C,T,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1746,chr9,966860,T,G,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1747,chr9,974114,A,T,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1748,chr9,976640,G,C,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1749,chr9,1076478,T,C,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1750,chr9,1178903,T,C,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1751,chr9,1178963,G,A,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1752,chr9,1179069,G,A,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1753,chr9,1179228,G,A,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1754,chr9,1179855,A,C,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1755,chr9,1206483,C,A,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1756,chr9,1206484,C,A,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1757,chr9,1374376,C,T,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1758,chr9,1379201,C,A,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1759,chr9,1418176,A,G,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1760,chr9,1418612,G,C,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1761,chr9,1419331,C,T,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1762,chr9,1422363,C,T,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1763,chr9,1433411,G,A,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1764,chr9,1433474,G,A,False,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1765,chr9,95530,T,A,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1766,chr9,123040,A,G,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1767,chr9,150411,A,G,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1768,chr9,156385,G,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1769,chr9,156401,T,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1770,chr9,157331,A,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1771,chr9,157982,T,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1772,chr9,159227,C,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1773,chr9,225542,C,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1774,chr9,225902,A,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1775,chr9,248414,T,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1776,chr9,283356,T,G,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1777,chr9,283868,A,G,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1778,chr9,302767,T,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1779,chr9,375323,T,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1780,chr9,464670,T,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1781,chr9,492627,C,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1782,chr9,494966,C,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1783,chr9,541423,G,A,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1784,chr9,586708,A,G,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1785,chr9,596041,A,G,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1786,chr9,596332,G,A,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1787,chr9,597897,A,G,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1788,chr9,597966,C,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1789,chr9,599322,G,A,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1790,chr9,602381,C,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1791,chr9,602885,G,A,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1792,chr9,631776,C,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1793,chr9,650981,A,G,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1794,chr9,653234,A,G,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1795,chr9,677379,T,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1796,chr9,678111,A,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1797,chr9,678471,A,G,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1798,chr9,681785,T,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1799,chr9,685667,C,A,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1800,chr9,706643,C,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1801,chr9,738710,A,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1802,chr9,739616,T,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1803,chr9,770345,C,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1804,chr9,817567,T,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1805,chr9,831911,C,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1806,chr9,850783,C,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1807,chr9,880928,G,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1808,chr9,909944,C,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1809,chr9,913616,T,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1810,chr9,917264,A,G,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1811,chr9,981718,A,G,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1812,chr9,1015339,T,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1813,chr9,1076011,C,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1814,chr9,1080391,G,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1815,chr9,1080655,A,G,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1816,chr9,1085080,A,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1817,chr9,1111456,A,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1818,chr9,1129679,C,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1819,chr9,1202426,A,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1820,chr9,1202447,T,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1821,chr9,1208483,A,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1822,chr9,1249583,A,G,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1823,chr9,1282210,T,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1824,chr9,1289585,T,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1825,chr9,1314980,C,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1826,chr9,1315442,C,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1827,chr9,1316466,C,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1828,chr9,1341618,G,T,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1829,chr9,1347188,T,C,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1830,chr9,1406587,G,A,True,False,Pf3D7_09_v3,1541735,Neutral,b
+1831,chr9,578985,G,A,True,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1832,chr9,1282630,A,G,True,True,Pf3D7_09_v3,1541735,Geographically Informative,r
+1833,chr9,1379494,A,T,True,True,Pf3D7_09_v3,1541735,Geographically Informative,r
