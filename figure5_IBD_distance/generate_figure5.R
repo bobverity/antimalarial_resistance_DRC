@@ -20,6 +20,8 @@ library(dplyr)
 library(magrittr)
 library(bobfunctions2)
 library(rgdal)
+library(ggplot2)
+library(rworldmap)
 
 # ------------------------------------------------------------------
 
