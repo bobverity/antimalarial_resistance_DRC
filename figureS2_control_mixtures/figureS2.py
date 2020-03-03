@@ -290,7 +290,9 @@ d_filt["Relative Error"] = abs((d_filt["Observed"] - d_filt["Expected"]) / d_fil
 
 
 fig, ax = plt.subplots()
-sns.barplot(x="Expected", y="Relative Error", data=d_filt, ci=95, ax=ax)
+sns.swarmplot(data=d_filt, x="Expected", y="Relative Error", ax=ax, zorder=1)
+sns.boxplot(data=d_filt.groupby("Expected")["Relative Error"].median().reset_index(),
+            x="Expected", y="Relative Error", ax=ax, zorder=2)
 fig.set_dpi(300)
 ax.set_xlabel("Expected Frequency")
 
