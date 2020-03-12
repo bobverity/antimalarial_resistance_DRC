@@ -17,6 +17,7 @@
 library(devtools)
 library(MIPanalyzer)
 library(bobfunctions2)
+library(gridExtra)
 
 # ------------------------------------------------------------------
 
@@ -34,14 +35,14 @@ f_vec <- as.vector(as.dist(t(dat$distance$inbreeding_dominant)))
 
 # plotting parameters
 fill_col <- grey(0.85)
-inset_x <- c(0.5, 1)
+inset_x <- c(0.3, 1)
 inset_y <- c(20, 70)
 breaks <- seq(0, 1, 0.02)
 df_bracket <- data.frame(x0 = c(0.5,1,0.75,0.5), x1 = c(0.5,1,0.75,1),
                          y0 = c(2,2,5,5), y1 = c(5,5,20,5))
 
 # create main histogram
-plot1 <- ggplot() + theme_bw() +
+plot1 <- ggplot() + theme_bw(base_size = 8) +
   geom_histogram(aes(x = x, y = (..count..)/sum(..count..)*100),
                  breaks = breaks, fill = fill_col, color = "black",
                  data = data.frame(x = f_vec)) +
@@ -49,7 +50,7 @@ plot1 <- ggplot() + theme_bw() +
   geom_segment(aes(x = x0, xend = x1, y = y0, yend = y1), data = df_bracket)
 
 # create inset plot
-plot2 <- ggplot() + theme_bw() +
+plot2 <- ggplot() + theme_bw(base_size = 8) +
   geom_histogram(aes(x = x, y = (..count..)/sum(..count..)*100),
                  breaks = breaks, fill = fill_col, color = "black",
                  data = data.frame(x = f_vec)) +
@@ -65,7 +66,8 @@ plot_combined <- plot1 +
             data = data.frame(x0 = inset_x[1], x1 = inset_x[2], y0 = inset_y[1], y1 = inset_y[2]))
 
 # save to file
-ggsave("figure4_IBD_histogram/figure4_IBD_histogram.pdf", plot = plot_combined,
-       device = "pdf", width = 6, height = 4.5)
-ggsave("figure4_IBD_histogram/figure4_IBD_histogram.png", plot = plot_combined,
-       device = "png", width = 6, height = 4.5, dpi = 100)
+file_ext <- c("eps", "pdf", "png")
+for (i in seq_along(file_ext)) {
+  ggsave(sprintf("figure4_IBD_histogram/figure4_IBD_histogram.%s", file_ext[i]),
+         plot = plot_combined, device = file_ext[i], width = 90, height = 80, units = "mm")
+}

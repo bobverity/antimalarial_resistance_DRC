@@ -15,6 +15,8 @@
 # load packages
 library(devtools)
 library(MIPanalyzer)
+library(ggplot2)
+library(gridExtra)
 
 # ------------------------------------------------------------------
 # PRE-PROCESS
@@ -42,26 +44,27 @@ summary2 <- c(sprintf("mean = %s", round(mean(c2, na.rm = TRUE)), digits = 2),
               sprintf("Q75 = %s", q2[3]))
 
 # histogram of genome-wide panel coverage
-plot1 <- ggplot() + theme_bw() +
+plot1 <- ggplot() + theme_bw(base_size = 8) +
   geom_histogram(aes(x = log(x)/log(10)), fill = grey(0.5), color = grey(0.3),
                                 bins = 20, data = data.frame(x = c1)) +
   xlim(c(0,4)) + ylim(c(0,3e5)) +
-  xlab(expression(log[10]*"(depth)")) + ggtitle("UMI depth: genome-wide panel") +
-  annotate("text", hjust = 1, x = 4, y = 3e5*c(1,0.9,0.8,0.7), label = summary1)
+  xlab(expression(log[10]*"(depth)")) + ggtitle("genome-wide panel") +
+  ggplot2::annotate("text", hjust = 1, x = 4, y = 3e5*c(1,0.9,0.8,0.7), label = summary1, size = 3)
 
 # histogram of DR panel coverage
-plot2 <- ggplot() + theme_bw() +
+plot2 <- ggplot() + theme_bw(base_size = 8) +
   geom_histogram(aes(x = log(x)/log(10)), fill = grey(0.5), color = grey(0.3),
                  bins = 20, data = data.frame(x = c2)) +
   xlim(c(0,5)) + ylim(c(0,5e5)) +
-  xlab(expression(log[10]*"(depth)")) + ggtitle("UMI depth: drug resistance panel") +
-  annotate("text", hjust = 1, x = 5, y = 5e5*c(1,0.9,0.8,0.7), label = summary2)
+  xlab(expression(log[10]*"(depth)")) + ggtitle("drug resistance panel") +
+  ggplot2::annotate("text", hjust = 1, x = 5, y = 5e5*c(1,0.9,0.8,0.7), label = summary2, size = 3)
 
 # create combined plot
-plot_combined <- grid.arrange(plot1, plot2, ncol = 2)
+plot_combined <- gridExtra::grid.arrange(plot1, plot2, ncol = 2)
 
 # save to file
-ggsave("figureS1_coverage/figureS1_coverage.pdf", plot = plot_combined,
-       device = "pdf", width = 8, height = 4)
-ggsave("figureS1_coverage/figureS1_coverage.png", plot = plot_combined,
-       device = "png", width = 8, height = 4, dpi = 100)
+file_ext <- c("eps", "pdf", "png")
+for (i in seq_along(file_ext)) {
+  ggsave(sprintf("figureS1_coverage/figureS1_coverage.%s", file_ext[i]),
+         plot = plot_combined, device = file_ext[i], width = 179, height = 80, units = "mm")
+}

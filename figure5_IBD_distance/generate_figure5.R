@@ -22,6 +22,7 @@ library(bobfunctions2)
 library(rgdal)
 library(ggplot2)
 library(rworldmap)
+library(gridExtra)
 
 # ------------------------------------------------------------------
 
@@ -65,7 +66,7 @@ df_summary$f_UL <- df_summary$f_mean + 1.96*df_summary$f_SE
 df_summary$f_LL <- df_summary$f_mean - 1.96*df_summary$f_SE
 
 # create first plot
-plot1 <- ggplot(data = df_summary) + theme_bw() +
+plot1 <- ggplot(data = df_summary) + theme_bw(base_size = base_size) +
   geom_point(aes(x = mid, y = f_mean)) +
   geom_segment(aes(x = mid, xend = mid, y = f_LL, yend = f_UL)) +
   xlab("spatial distance (km)") + ylab("mean IBD") +
@@ -80,6 +81,7 @@ col_country_border <- grey(0.5)
 size_country_border <- 0.5
 col_sea <- grey(1.0)
 shape_resolution <- "coarse"
+base_size <- 8
 
 # subset pairs to highly related
 w <- which(dat$distance$inbreeding_dominant > 0.9, arr.ind = TRUE)
@@ -120,11 +122,12 @@ shape_raw@data$id <- rownames(shape_raw@data)
 df_water <- merge(ggplot2::fortify(shape_raw, region = "id"), shape_raw@data, by = "id")
 
 # create basic map plot
-plot_base <- ggplot() + theme_bw() + theme(panel.background = element_rect(fill = col_sea),
-                                           panel.grid.major = element_blank(),
-                                           panel.grid.minor = element_blank(),
-                                           strip.background = element_blank(),
-                                           strip.text = element_text(angle = 0, hjust = 0, size = 12))
+plot_base <- ggplot() + theme_bw(base_size = base_size) +
+  theme(panel.background = element_rect(fill = col_sea),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        strip.background = element_blank(),
+        strip.text = element_text(angle = 0, hjust = 0, size = 12))
 
 # create final map
 plot2 <- plot_base +
@@ -136,20 +139,21 @@ plot2 <- plot_base +
   geom_point(aes(x = long, y = lat), color = grey(0.7), data = df_clust) +
   geom_segment(aes(x = x0, xend = x1, y = y0, yend = y1, color = f), size = 1, data = df_highrelated) +
   xlab("longitude") + ylab("latitude") + ggtitle("b)") +
-  scale_color_continuous(name = "relatedness (F)", limits = c(0.9, 1)) +
+  scale_color_continuous(name = "pairwise IBD", limits = c(0.9, 1)) +
   geom_text(aes(x = x_mid, y = y_mid, label = round(gc_dist),
-                hjust = c("left", "right", "left", "right", "left"),
-                vjust = c("top", "top", "top", "bottom", "bottom")), size = 3.5,
+                hjust = c("left", "right", "right", "right", "left"),
+                vjust = c("top", "top", "top", "bottom", "bottom")), size = 2.5,
             data = subset(df_highrelated, gc_dist > 1)) +
-  annotate("text", x = 15, y = 3, label = "Congo river") +
+  ggplot2::annotate("text", x = 15, y = 3, label = "Congo river", size = 3) +
   geom_segment(aes(x = 15, xend = 18.5, y = 2.5, yend = 1), arrow = arrow(length = unit(0.2, "cm")))
 
-
 # create combined plot
-plot_combined <- grid.arrange(plot1, plot2, nrow = 1, widths = c(1.3,2))
+plot_combined <- gridExtra::grid.arrange(plot1, plot2, nrow = 1, widths = c(1.3,2))
 
 # save to file
-ggsave("figure5_IBD_distance/figure5_IBD_distance.pdf", plot = plot_combined,
-       device = "pdf", width = 10, height = 4.5)
-ggsave("figure5_IBD_distance/figure5_IBD_distance.png", plot = plot_combined,
-       device = "png", width = 10, height = 4.5, dpi = 100)
+file_ext <- c("eps", "pdf", "png")
+for (i in seq_along(file_ext)) {
+  ggsave(sprintf("figure5_IBD_distance/figure5_IBD_distance.%s", file_ext[i]),
+         plot = plot_combined, device = file_ext[i], width = 179, height = 80, units = "mm")
+}
+

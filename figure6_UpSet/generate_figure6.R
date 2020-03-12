@@ -5,7 +5,9 @@
 # Date: 2019-12-17
 #
 # Purpose:
-# Generate plots of drug resistance combinations using the UpSet package
+# Generate plots of drug resistance combinations using the UpSetR package. Due
+# to how UpSetR plots are saved to file, these individual plots then need to be
+# manually combined.
 #
 # ------------------------------------------------------------------
 
@@ -18,9 +20,14 @@ library(MIPanalyzer)
 library(RColorBrewer)
 library(UpSetR)
 library(rworldmap)
+library(grImport)
 
 # ------------------------------------------------------------------
 # PRE-PROCESS
+
+# plotting parameters
+plot_width <- 3.5
+plot_height <- 3
 
 # read in data
 dat <- readRDS("source_data/dr_processed2.rds")
@@ -77,7 +84,7 @@ bp <- RColorBrewer::brewer.pal(11, "RdYlBu")
 bar_cols <- c(bp[5], grey(0.5), bp[8], bp[4], bp[10], bp[2])
 
 # save plot to file
-pdf(file = "figure6_UpSet/figure6a_UpSet_dhps.pdf", onefile = FALSE, width = 4.5, height = 4)
+pdf(file = "figure6_UpSet/figure6a_UpSet_dhps.pdf", onefile = FALSE, width = plot_width, height = plot_height)
 UpSetR::upset(upset_mat, sets = c("none", mut_unique), keep.order = FALSE, main.bar.color = bar_cols, mb.ratio = c(0.5,0.5))
 dev.off()
 
@@ -127,12 +134,12 @@ plot1 <- plot_base +
              shape = 21, stroke = stroke_size, size = point_size, data = plot_df) +
   coord_cartesian(xlim = c(12, 33), ylim = c(-13,5)) +
   scale_fill_manual(values = map_cols, guide = FALSE) +
-  xlab("longitude") + ylab("latitude") +
-  ggtitle(expression(paste("b) ", italic("dhps"), " spatial distribution of mutant haplotypes")))
+  xlab("longitude") + ylab("latitude")# +
+  #ggtitle(expression(paste("b) ", italic("dhps"), " spatial distribution of mutant haplotypes")))
 
 # save to file
-ggsave("figure6_UpSet/figure6b_map_dhps.pdf", plot = plot1, device = "pdf", width = 4.5, height = 4)
-ggsave("figure6_UpSet/figure6b_map_dhps.png", plot = plot1, device = "png", width = 4.5, height = 4, dpi = 100)
+ggsave("figure6_UpSet/figure6b_map_dhps.pdf", plot = plot1, device = "pdf", width = plot_width, height = plot_height)
+ggsave("figure6_UpSet/figure6b_map_dhps.png", plot = plot1, device = "png", width = plot_width, height = plot_height, dpi = 100)
 
 # ------------------------------------------------------------------
 # CRT UPSET
@@ -151,7 +158,7 @@ bp <- RColorBrewer::brewer.pal(11, "RdYlBu")
 bar_cols <- c(grey(0.5), "#CAB2D6", "#6A3D9A", bp[5], bp[4], bp[3], bp[8], bp[10], bp[2], bp[1])
 
 # upset plot
-pdf(file = "figure6_UpSet/figure6c_UpSet_crt.pdf", onefile = FALSE, width = 4.5, height = 4)
+pdf(file = "figure6_UpSet/figure6c_UpSet_crt.pdf", onefile = FALSE, width = plot_width, height = plot_height)
 upset(upset_mat, sets = c("none", mut_unique), keep.order = FALSE, main.bar.color = bar_cols, mb.ratio = c(0.5,0.5))
 dev.off()
 
@@ -186,10 +193,10 @@ plot2 <- plot_base +
              shape = 21, stroke = stroke_size, size = point_size, data = plot_df) +
   coord_cartesian(xlim = c(12, 33), ylim = c(-13,5)) +
   scale_fill_manual(values = map_cols, guide = FALSE) +
-  xlab("longitude") + ylab("latitude") +
-  ggtitle(expression(paste("d) ", italic("crt"), " spatial distribution of mutant haplotypes")))
-plot2
+  xlab("longitude") + ylab("latitude")# +
+  #ggtitle(expression(paste("d) ", italic("crt"), " spatial distribution of mutant haplotypes")))
 
 # save to file
-ggsave("figure6_UpSet/figure6d_map_crt.pdf", plot = plot1, device = "pdf", width = 4.5, height = 4)
-ggsave("figure6_UpSet/figure6d_map_crt.png", plot = plot1, device = "png", width = 4.5, height = 4, dpi = 100)
+ggsave("figure6_UpSet/figure6d_map_crt.pdf", plot = plot1, device = "pdf", width = plot_width, height = plot_height)
+ggsave("figure6_UpSet/figure6d_map_crt.png", plot = plot1, device = "png", width = plot_width, height = plot_height, dpi = 100)
+

@@ -16,6 +16,7 @@
 library(devtools)
 library(MIPanalyzer)
 library(RColorBrewer)
+library(gridExtra)
 
 # ------------------------------------------------------------------
 
@@ -43,17 +44,18 @@ df_plot <- data.frame(x = df_chrom$offset[dat$loci$CHROM_NUMERIC] + dat$loci$POS
 point_cols <- c("#E31A1C", "#1F78B4")
 
 # create basic plot
-plot1 <- ggplot() +
+plot1 <- ggplot() + theme(axis.title = element_text(size = 6), axis.text = element_text(size = 6)) +
   theme(panel.grid.minor.x = element_blank()) +
-  geom_point(aes(x = x, y = y, color = geo), size = 0.7, data = df_plot) +
+  geom_point(aes(x = x, y = y, color = geo), size = 0.2, data = df_plot) +
   facet_wrap(~comp, ncol = 1) +
-  theme(strip.background = element_blank(), strip.text = element_text(size = 11, hjust = 0)) +
+  theme(strip.background = element_blank(), strip.text = element_text(size = 8, hjust = 0)) +
   xlab("SNP position (ordered chromosomes)") + ylab("relative contribution (%)") +
   geom_hline(yintercept = 0) + geom_vline(xintercept = 0) +
-  theme(axis.ticks.x=element_blank(), axis.text.x=element_blank()) +
-  scale_colour_manual(values = point_cols, name = "geographic\nstatus of site", guide = FALSE) +
+  theme(axis.ticks.x = element_blank(), axis.text.x = element_blank()) +
+  scale_colour_manual(values = point_cols, name = "geographic\nstatus of site") +
   scale_x_continuous(limits = c(0,total_length), expand = c(0,0), breaks = cumsum(df_chrom$length)) +
-  scale_y_continuous(limits = c(0,3), expand = c(0,0))
+  scale_y_continuous(limits = c(0,3), expand = c(0,0)) +
+  theme(legend.position = "bottom", text = element_text(size = 7))
 
 # create dataframe for annotating plot
 df_ann <- data.frame(comp = comp_name_vec[c(2,4)],
@@ -62,10 +64,12 @@ df_ann <- data.frame(comp = comp_name_vec[c(2,4)],
                      y = 2.5)
 
 # annotate plot
-plot1 <- plot1 + geom_text(aes(x = x, y = y, label = lab), size = 3, fontface = 2, data = df_ann)
+plot1 <- plot1 + geom_text(aes(x = x, y = y, label = lab), size = 2, fontface = 2, data = df_ann)
+
 
 # save to file
-ggsave("figure2_PCA_contribution/figure2_PCA_contribution.pdf", plot = plot1, device = "pdf",
-       width = 12, height = 6)
-ggsave("figure2_PCA_contribution/figure2_PCA_contribution.png", plot = plot1, device = "png",
-       width = 12, height = 6, dpi = 100)
+file_ext <- c("eps", "pdf", "png")
+for (i in seq_along(file_ext)) {
+  ggsave(sprintf("figure2_PCA_contribution/figure2_PCA_contribution.%s", file_ext[i]),
+         plot = plot1, device = file_ext[i], width = 179, height = 120, units = "mm")
+}
