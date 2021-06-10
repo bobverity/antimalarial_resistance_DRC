@@ -17,6 +17,7 @@ library(devtools)
 library(MIPanalyzer)
 library(RColorBrewer)
 library(gridExtra)
+library(ggplot2)
 
 # ------------------------------------------------------------------
 
