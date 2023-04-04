@@ -10,6 +10,9 @@
 #
 # ------------------------------------------------------------------
 
+# load packages
+#devtools::install_github("mrc-ide/MIPanalyzer", ref = "v1.0.0")
+library(MIPanalyzer)
 library(tidyverse)
 
 #### Read in data and ubset to monoclonals
